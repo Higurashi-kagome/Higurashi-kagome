@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning programming by myself.
+- 💬 Ask me about any questions about my project.
+- 📫 How to reach me: [higurashi-kagome@qq.com](higurashi-kagome@qq.com)
+
 [![liuhao's github stats](https://github-readme-stats.vercel.app/api?username=liuhao326&theme=dracula&show_icons=true&hide=contribs)](https://github.com/liuhao326)
 
 <!--
