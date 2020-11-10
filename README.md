@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning programming by myself.
+- 🌱 I'm currently teaching myself programming.
 - 💬 Ask me about any questions of my projects.
 - 📫 How to reach me: higurashi-kagome@qq.com
 
