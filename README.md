@@ -4,7 +4,7 @@
 - 💬 Ask me about any questions of my projects.
 - 📫 How to reach me: higurashi-kagome@qq.com
 
-[![liuhao's github stats](https://github-readme-stats.vercel.app/api?username=liuhao326&theme=dracula&show_icons=true)](https://github.com/liuhao326)
+[![liuhao's github stats](https://github-readme-stats.vercel.app/api?username=Higurashi-kagome&theme=dracula&show_icons=true)](https://github.com/liuhao326)
 
 <!--
 **liuhao326/liuhao326** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
