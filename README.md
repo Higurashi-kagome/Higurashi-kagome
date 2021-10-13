@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- 🌱 I'm currently teaching myself programming.
+- 🧱 My major is the Civil Engineering and I'm currently working in this field.
+- 🌱 I wanna be a programmer actually so I'm teaching myself programming these days.
 - 💬 Ask me about any questions of my projects.
 - 📫 How to reach me: higurashi-kagome@qq.com
 
