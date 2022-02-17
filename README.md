@@ -1,11 +1,12 @@
 ### Hi there 👋
 
-- 🧱 My major is the Civil Engineering and I'm currently working in this field.
-- 🌱 I wanna be a programmer actually so I'm teaching myself programming these days.
-- 💬 Ask me about any questions of my projects.
+- 🧱 My major is the Civil Engineering and I quitted my job on this field in the February of this year.
+- 🌱 I wanna be a programmer actually so I'm teaching myself programming these days at home.
+- 🌳 I am going to find a full time job as a Java programmer in this year.
+- 💬 Ask me about any questions of my projects, and I'd like to learn together with you.
 - 📫 How to reach me: higurashi-kagome@qq.com
 
-[![liuhao's github stats](https://github-readme-stats.vercel.app/api?username=Higurashi-kagome&theme=dracula&show_icons=true)](https://github.com/liuhao326)
+[![Hao Liu's github stats](https://github-readme-stats.vercel.app/api?username=Higurashi-kagome&theme=dracula&show_icons=true)](https://github.com/Higurashi-kagome)
 
 <!--
 **liuhao326/liuhao326** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
