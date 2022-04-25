@@ -6,8 +6,8 @@
 - 💬 Ask me about any questions of my projects, and I'd like to learn together with you.
 - 📫 How to reach me: higurashi-kagome@qq.com
 	<p>
-	<a href="https://github.com/jstrieb/github-stats"><img src="https://github.com/Higurashi-kagome/github-stats/blob/master/generated/overview.svg"/></a>
-	<a href="https://github.com/jstrieb/github-stats"><img src="https://github.com/Higurashi-kagome/github-stats/blob/master/generated/languages.svg"/></a>
+	<a href="https://github.com/jstrieb/github-stats"><img src="https://github.com/Higurashi-kagome/my-github-stats/blob/master/generated/overview.svg"/></a>
+	<a href="https://github.com/jstrieb/github-stats"><img src="https://github.com/Higurashi-kagome/my-github-stats/blob/master/generated/languages.svg"/></a>
 	</p>
 
 <!-- [![Hao Liu's github stats](https://github-readme-stats.vercel.app/api?username=Higurashi-kagome&theme=dracula&show_icons=true)](https://github.com/Higurashi-kagome) -->
