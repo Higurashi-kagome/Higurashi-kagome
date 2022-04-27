@@ -5,12 +5,20 @@
 - 🌳 I am going to find a full time job as a Java programmer in this year.
 - 💬 Ask me about any questions of my projects, and I'd like to learn together with you.
 - 📫 How to reach me: higurashi-kagome@qq.com
-	<p>
-	<a href="https://github.com/jstrieb/github-stats"><img src="https://github.com/Higurashi-kagome/my-github-stats/blob/master/generated/overview.svg"/></a>
-	<a href="https://github.com/jstrieb/github-stats"><img src="https://github.com/Higurashi-kagome/my-github-stats/blob/master/generated/languages.svg"/></a>
-	</p>
+    <table>
+	<tr>
+	<th>
+		<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Higurashi-kagome&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" style="max-width: 100%;"></a>
+	</th>
+	<th>
+		<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Higurashi-kagome&layout=compact&theme=buefy&hide_border=true" style="max-width: 100%;"></a>
+	</th>
+	</tr>
+	</table>
 
-<!-- [![Hao Liu's github stats](https://github-readme-stats.vercel.app/api?username=Higurashi-kagome&theme=dracula&show_icons=true)](https://github.com/Higurashi-kagome) -->
+
+<!-- [![Hao Liu's github stats](https://github-readme-stats.vercel.app/api?username=Higurashi-kagome&show_icons=true&include_all_commits=true&theme=buefy&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
+[![Hao Liu's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Higurashi-kagome&layout=compact&theme=buefy&hide_border=false)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--
 **liuhao326/liuhao326** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
