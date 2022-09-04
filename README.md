@@ -2,7 +2,7 @@
 
 - 🧱 My major is the Civil Engineering and I quitted my job on this field in the February of 2022.
 - 🌱 I wanna be a programmer actually so I spent about five months teaching myself programming at home.
-- 🌳 Now, I am Java programmer working in Changsha.
+- 🌳 Now, I'm a Java programmer working in Changsha.
 - 💬 Feel free to ask me about any questions, it would be nice if my experience can be helpful for you.
 - 📫 How to reach me: higurashi-kagome@qq.com
   
