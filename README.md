@@ -6,6 +6,7 @@
 - 💬 Feel free to ask me about any questions, it would be nice if my experience can be helpful for you.
 - 📫 How to reach me: higurashi-kagome@foxmail.com
   
+<!--
 	<table>
 	<tr>
 	<th>
@@ -16,7 +17,7 @@
 	</th>
 	</tr>
 	</table>
-	<table>
+<table>
 	<tr>
 	<td>
 		🚀 Special thanks to JetBrains for providing me with a free license through their Open Source License program.
@@ -26,3 +27,4 @@
 	</td>
 	</tr>
 	</table>
+-->
